@@ -1,6 +1,7 @@
 ## 免翻墙镜像
 本页面收集了墙内镜像。请将此页加为书签。若镜像被封锁，请访问本页面获取最新镜像。  
-2014年6月10日更新
+2014年7月22日更新
+* 将DNS更改为：42.120.21.30
 * Google 搜索：http://91.213.30.151/
 * Google 搜索：http://www.google.com.im/
 * Google 搜索：http://www.googlestable.com/
