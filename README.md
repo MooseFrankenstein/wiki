@@ -3,6 +3,7 @@
 2014年8月7日更新
 * Google 搜索：http://209.116.186.249/
 * Google 搜索：http://91.213.30.151/
+* Google 搜索：http://203.116.165.138/
 * Google 搜索：http://www.google.com.im/
 * Google 搜索：http://www.googlestable.com/
 * Google 搜索：http://sinaapp.co
