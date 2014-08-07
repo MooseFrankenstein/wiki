@@ -5,7 +5,7 @@
 * Google 搜索：http://91.213.30.151/
 * Google 搜索：http://203.116.165.138/
 * Google 搜索：http://www.google.com.im/
-* Google 搜索：http://www.googlestable.com/
+* Google 搜索：http://www.tmd123.com/
 * Google 搜索：http://sinaapp.co
 * Google 搜索：https://s3-us-west-2.amazonaws.com/google2/index.html
 * Google 搜索：https://s3-us-west-1.amazonaws.com/google3/index.html
